@@ -1,1 +1,1 @@
-### Ricardo Granvilla Oliveira
+# Hi, I'm Ricardo 👋 🧑‍💻
