@@ -52,47 +52,6 @@ Seja muito bem vindo!
 
 - Fundamentos Java, OrienSFX, JPA, Hibernate.
 
-# Competências
-
-- ​HTML & CSS
-- Javascript
-- Typescript
-- Git & Github
-- React JS
-- React Native
-- NextJS
-- Redux & Redux Toolkit
-- NodeJS
-- Docker
-- MongoDB
-- MySQL
-- PostgreSQL
-- Babel
-- JSON
-- SASS
-- Styled Components
-- Webpack
-- Figma
-- Prettier
-- EsLint
-- Jest
-- React Testing Library
-- Express
-- JsonWebToken
-- Tsyringe
-- Typeorm
-- Swagger
-- Storebook
-- Vite
-
-# Idiomas
-
-- Português: nativo
-- Inglês: Intermediário
-
-<br>
-<br>
-
 # Contatos
 
 <p>&nbsp;</p>
