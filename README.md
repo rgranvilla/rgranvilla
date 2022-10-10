@@ -21,7 +21,7 @@ Seja muito bem vindo!
 
 # Formação
 
-## Graduação em Ciências da Computação, FADERGS (Out/2020 - Cursando)
+### Graduação em Ciências da Computação, FADERGS (Out/2020 - Cursando)
 
 <br>
 <br>
