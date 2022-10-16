@@ -1,6 +1,14 @@
 # Olá, sou o Ricardo 👋 🧑‍💻
 
-<img src="https://raw.githubusercontent.com/rgranvilla/rgranvilla/master/header-samll-image-rgranvilla.png" alt="" />
+<div style="display: flex; gap: 16px" >
+
+<div style="flex: 1">
+
+<img src="https://raw.githubusercontent.com/rgranvilla/rgranvilla/master/header-small-image-rgranvilla.png" alt="" />
+
+</div>
+
+<div style="flex: 2">
 
 Desenvolvedor front-end com conhecimento em back-end node (Javascript, Typescript, ReactJS, NodeJs), aficionado por tecnologia e programação. Possuo facilidade de aprendizado, trabalho bem em equipe, proativo, dinâmico e observador.
 Busco constantemente estar atento ao mercado e suas demandas, realizando cursos e workshops que possam melhorar minhas habilidades.
@@ -19,6 +27,11 @@ Seja muito bem vindo!
 [![Spotify Badge](https://img.shields.io/badge/-Ricardo-81b71a?style=flat-square&logo=Spotify&logoColor=white&link=https://open.spotify.com/user/12144101493?si=eb2a8bab7d7b421f)](https://open.spotify.com/user/12144101493?si=eb2a8bab7d7b421f)
 
 </div>
+</div>
+
+</div>
+<br>
+<br>
 
 # Contatos
 
