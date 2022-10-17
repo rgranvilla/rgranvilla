@@ -91,8 +91,6 @@ Seja muito bem vindo!
 [![Figma Badge](https://img.shields.io/badge/-Figma-2C2E33?style=flat&logo=figma)]()
 [![Insomnia Badge](https://img.shields.io/badge/-Insomnia-2C2E33?style=flat&logo=insomnia)]()
 
-<br>
-
 </div>
 
 #
