@@ -34,7 +34,7 @@ Seja muito bem vindo!
 <br>
 
   <div align='center'>
-  
+
 [![wakatime](https://wakatime.com/badge/user/87f05888-e4f5-4dc0-8bd6-42032ea520d1.svg)](https://wakatime.com/@87f05888-e4f5-4dc0-8bd6-42032ea520d1)
 [![Twitter Badge](https://img.shields.io/badge/-Ricardo-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/rgranvilla)](https://twitter.com/rgranvilla)
 [![Linkedin Badge](https://img.shields.io/badge/-Ricardo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rgranvilla/)](https://www.linkedin.com/in/rgranvilla/)
@@ -92,20 +92,15 @@ Seja muito bem vindo!
 [![Insomnia Badge](https://img.shields.io/badge/-Insomnia-2C2E33?style=flat&logo=insomnia)]()
 
 <br>
-<br>
 
 </div>
 
 #
 
 <div>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rgranvilla&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rgranvilla&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&hide=jupyter%20notebook"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rgranvilla&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rgranvilla&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&hide=jupyter%20notebook"/>
 </div>
-
-#
-
-<img src="https://activity-graph.herokuapp.com/graph?username=rgranvilla&bg_color=1A1B27&line=0cb9b1&color=7e7fff"/>
 
 # Contatos
 
