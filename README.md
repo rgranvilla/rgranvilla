@@ -45,7 +45,7 @@ Seja muito bem vindo!
 
 <br>
 
-# Linguagens e ferramentas:
+# Habilidades:
 
 <div align='center'>
 
