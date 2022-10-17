@@ -42,55 +42,22 @@ Seja muito bem vindo!
 
 # Linguagens e ferramentas:
 
-<div style="display: flex; gap: 16px; align-items: center; flex-wrap: wrap">
+<div align='center'>
 
-<img
-  align="left-bottom"
-  alt="Html5"
-  title="Html5"
-  height="30px"
-  src="https://raw.githubusercontent.com/rgranvilla/rgranvilla/master/assets/html-1.svg"
-/>
+[![HTML5 Badge](https://img.shields.io/badge/-HTML%205-2C2E33?style=for-the-badge&logo=html5)]()
+[![CSS3 Badge](https://img.shields.io/badge/-CSS%203-2C2E33?style=for-the-badge&logo=css3)]()
+[![Javascript Badge](https://img.shields.io/badge/-Javascript-2C2E33?style=for-the-badge&logo=javascript&logoColor=121214)]()
+[![Typescript Badge](https://img.shields.io/badge/-Typescript-2C2E33?style=for-the-badge&logo=typescript)]()
+[![Git Badge](https://img.shields.io/badge/-Git-2C2E33?style=for-the-badge&logo=git)]()
+[![Github Badge](https://img.shields.io/badge/-Github-2C2E33?style=for-the-badge&logo=github)]()
+[![ReactJS Badge](https://img.shields.io/badge/-ReactJs-2C2E33?logo=react&style=for-the-badge)]()
+[![ReactNative Badge](https://img.shields.io/badge/-React%20Native-2C2E33?style=for-the-badge&logo=github)]()
+[![NextJS Badge](https://img.shields.io/badge/-Next%20JS-2C2E33?style=for-the-badge&logo=nextdotjs)]()
+[![Redux Badge](https://img.shields.io/badge/-Redux-2C2E33?style=for-the-badge&logo=redux)]()
+[![ReduxToolkit Badge](https://img.shields.io/badge/-Redux%20Toolkit-2C2E33?style=for-the-badge&logo=redux)]()
+[![NodeJS Badge](https://img.shields.io/badge/-Node%20JS-2C2E33?style=for-the-badge&logo=nodedotjs)]()
 
-<img
-  align="left-bottom"
-  alt="CSS3"
-  title="CSS3"
-  height="30px"
-  src="https://raw.githubusercontent.com/rgranvilla/rgranvilla/master/assets/css-3.svg"
-/>
-
-<img
-  align="left-bottom"
-  alt="Javascript"
-  title="Javascript"
-  height="30px"
-  src="https://raw.githubusercontent.com/rgranvilla/rgranvilla/master/assets/logo-javascript.svg"
-/>
-
-<img
-  align="left-bottom"
-  alt="Typescript"
-  title="Typescript"
-  height="30px"
-  src="https://raw.githubusercontent.com/rgranvilla/rgranvilla/master/assets/typescript.svg"
-/>
-
-<img
-  align="left-bottom"
-  alt="Git"
-  title="Git"
-  height="30px"
-  src="https://raw.githubusercontent.com/rgranvilla/rgranvilla/master/assets/git-icon.svg"
-/>
-
-<img
-  align="left-bottom"
-  alt="Github"
-  title="Github"
-  height="30px"
-  src="https://raw.githubusercontent.com/rgranvilla/rgranvilla/master/assets/github-icon-1.svg"
-/>
+</div>
 
 <img
   align="left-bottom"
