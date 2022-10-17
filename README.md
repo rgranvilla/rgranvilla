@@ -34,7 +34,6 @@ Seja muito bem vindo!
 [![Spotify Badge](https://img.shields.io/badge/-Ricardo-81b71a?style=flat-square&logo=Spotify&logoColor=white&link=https://open.spotify.com/user/12144101493?si=eb2a8bab7d7b421f)](https://open.spotify.com/user/12144101493?si=eb2a8bab7d7b421f)
 
   </div>
-</div>
 
 <br>
 <br>
@@ -44,7 +43,7 @@ Seja muito bem vindo!
 <div style="display: flex; gap: 8px; align-items: center; flex-wrap: wrap">
 
 <img
-  align="center"
+  align="left"
   alt="Html5"
   title="Html5"
   height="30px"
@@ -52,7 +51,7 @@ Seja muito bem vindo!
 />
 
 <img
-  align="center"
+  align="left"
   alt="CSS3"
   title="CSS3"
   height="30px"
@@ -60,7 +59,7 @@ Seja muito bem vindo!
 />
 
 <img
-  align="center"
+  align="left"
   alt="Javascript"
   title="Javascript"
   height="30px"
@@ -68,7 +67,7 @@ Seja muito bem vindo!
 />
 
 <img
-  align="center"
+  align="left"
   alt="Typescript"
   title="Typescript"
   height="30px"
@@ -76,7 +75,7 @@ Seja muito bem vindo!
 />
 
 <img
-  align="center"
+  align="left"
   alt="Git"
   title="Git"
   height="30px"
@@ -84,7 +83,7 @@ Seja muito bem vindo!
 />
 
 <img
-  align="center"
+  align="left"
   alt="Github"
   title="Github"
   height="30px"
@@ -92,7 +91,7 @@ Seja muito bem vindo!
 />
 
 <img
-  align="center"
+  align="left"
   alt="React JS"
   title="React JS"
   height="30px"
@@ -100,7 +99,7 @@ Seja muito bem vindo!
 />
 
 <img
-  align="center"
+  align="left"
   alt="React Native"
   title="React Native"
   height="30px"
@@ -108,7 +107,7 @@ Seja muito bem vindo!
 />
 
 <img
-  align="center"
+  align="left"
   alt="NextJS"
   title="NextJS"
   height="30px"
@@ -116,7 +115,7 @@ Seja muito bem vindo!
 />
 
 <img
-  align="center"
+  align="left"
   alt="Redux"
   title="Redux"
   height="30px"
@@ -124,7 +123,7 @@ Seja muito bem vindo!
 />
 
 <img
-  align="center"
+  align="left"
   alt="NodeJS"
   title="NodeJS"
   height="30px"
@@ -132,7 +131,7 @@ Seja muito bem vindo!
 />
 
 <img
-  align="center"
+  align="left"
   alt="Docker"
   title="Docker"
   height="30px"
@@ -140,7 +139,7 @@ Seja muito bem vindo!
 />
 
 <img
-  align="center"
+  align="left"
   alt="MongoDB"
   title="MongoDB"
   height="30px"
@@ -148,7 +147,7 @@ Seja muito bem vindo!
 />
 
 <img
-  align="center"
+  align="left"
   alt="MySQL"
   title="MySQL"
   height="30px"
@@ -156,7 +155,7 @@ Seja muito bem vindo!
 />
 
 <img
-  align="center"
+  align="left"
   alt="PostgreSQL"
   title="PostgreSQL"
   height="30px"
@@ -164,7 +163,7 @@ Seja muito bem vindo!
 />
 
 <img
-  align="center"
+  align="left"
   alt="Yarn"
   title="Yarn"
   height="30px"
@@ -172,7 +171,7 @@ Seja muito bem vindo!
 />
 
 <img
-  align="center"
+  align="left"
   alt="Babel"
   title="Babel"
   height="30px"
@@ -180,7 +179,7 @@ Seja muito bem vindo!
 />
 
 <img
-  align="center"
+  align="left"
   alt="JSON"
   title="JSON"
   height="30px"
@@ -188,7 +187,7 @@ Seja muito bem vindo!
 />
 
 <img
-  align="center"
+  align="left"
   alt="Sass"
   title="Sass"
   height="30px"
@@ -196,7 +195,7 @@ Seja muito bem vindo!
 />
 
 <img
-  align="center"
+  align="left"
   alt="Styled-components"
   title="Styled-components"
   height="30px"
@@ -204,7 +203,7 @@ Seja muito bem vindo!
 />
 
 <img
-  align="center"
+  align="left"
   alt="Webpack"
   title="Webpack"
   height="30px"
@@ -212,7 +211,7 @@ Seja muito bem vindo!
 />
 
 <img
-  align="center"
+  align="left"
   alt="Prettier"
   title="Prettier"
   height="30px"
@@ -220,7 +219,7 @@ Seja muito bem vindo!
 />
 
 <img
-  align="center"
+  align="left"
   alt="Eslint"
   title="Eslint"
   height="30px"
@@ -228,7 +227,7 @@ Seja muito bem vindo!
 />
 
 <img
-  align="center"
+  align="left"
   alt="Jest"
   title="Jest"
   height="30px"
@@ -236,7 +235,7 @@ Seja muito bem vindo!
 />
 
 <img
-  align="center"
+  align="left"
   alt="Express"
   title="Express"
   height="30px"
@@ -244,7 +243,7 @@ Seja muito bem vindo!
 />
 
 <img
-  align="center"
+  align="left"
   alt="Json Web Token"
   title="Json Web Token"
   height="30px"
@@ -252,7 +251,7 @@ Seja muito bem vindo!
 />
 
 <img
-  align="center"
+  align="left"
   alt="Figma"
   title="Figma"
   height="30px"
@@ -260,7 +259,7 @@ Seja muito bem vindo!
 />
 
 <img
-  align="center"
+  align="left"
   alt="Tailwindcss"
   title="Tailwindcss"
   height="30px"
@@ -268,7 +267,7 @@ Seja muito bem vindo!
 />
 
 <img
-  align="center"
+  align="left"
   alt="VS Code"
   title="VS Code"
   height="30px"
