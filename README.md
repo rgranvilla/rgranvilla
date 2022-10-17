@@ -44,151 +44,57 @@ Seja muito bem vindo!
 
 <div align='center'>
 
-[![HTML5 Badge](https://img.shields.io/badge/-HTML%205-2C2E33?style=flat-square&logo=html5)]()
-[![CSS3 Badge](https://img.shields.io/badge/-CSS%203-2C2E33?style=flat-square&logo=css3)]()
-[![Javascript Badge](https://img.shields.io/badge/-Javascript-2C2E33?style=flat-square&logo=javascript&logoColor=121214)]()
-[![Typescript Badge](https://img.shields.io/badge/-Typescript-2C2E33?style=flat-square&logo=typescript)]()
-[![Git Badge](https://img.shields.io/badge/-Git-2C2E33?style=flat-square&logo=git)]()
-[![Github Badge](https://img.shields.io/badge/-Github-2C2E33?style=flat-square&logo=github)]()
-[![ReactJS Badge](https://img.shields.io/badge/-ReactJs-2C2E33?logo=react&style=flat-square)]()
-[![ReactNative Badge](https://img.shields.io/badge/-React%20Native-2C2E33?style=flat-square&logo=github)]()
-[![NextJS Badge](https://img.shields.io/badge/-Next%20JS-2C2E33?style=flat-square&logo=nextdotjs)]()
-[![Redux Badge](https://img.shields.io/badge/-Redux-2C2E33?style=flat-square&logo=redux)]()
-[![ReduxToolkit Badge](https://img.shields.io/badge/-Redux%20Toolkit-2C2E33?style=flat-square&logo=redux)]()
-[![NodeJS Badge](https://img.shields.io/badge/-Node%20JS-2C2E33?style=flat-square&logo=nodedotjs)]()
-[![Docker Badge](https://img.shields.io/badge/-Docker-2C2E33?style=flat-square&logo=docker)]()
-[![MongoDB Badge](https://img.shields.io/badge/-MongoDB-2C2E33?style=flat-square&logo=mongodb)]()
-[![MySQL Badge](https://img.shields.io/badge/-MySQL-2C2E33?style=flat-square&logo=mysql)]()
-[![PostgreSQL Badge](https://img.shields.io/badge/-PostgreSQL-2C2E33?style=flat-square&logo=mysql)]()
+[![HTML5 Badge](https://img.shields.io/badge/-HTML%205-2C2E33?style=flat&logo=html5)]()
+[![CSS3 Badge](https://img.shields.io/badge/-CSS%203-2C2E33?style=flat&logo=css3)]()
+[![Javascript Badge](https://img.shields.io/badge/-Javascript-2C2E33?style=flat&logo=javascript)]()
+[![Typescript Badge](https://img.shields.io/badge/-Typescript-2C2E33?style=flat&logo=typescript)]()
+[![ReactJS Badge](https://img.shields.io/badge/-ReactJs-2C2E33?logo=react&style=flat)]()
+[![ReactNative Badge](https://img.shields.io/badge/-React%20Native-2C2E33?style=flat&logo=react)]()
+[![NextJS Badge](https://img.shields.io/badge/-Next%20JS-2C2E33?style=flat&logo=nextdotjs)]()
+[![NodeJS Badge](https://img.shields.io/badge/-Node%20JS-2C2E33?style=flat&logo=nodedotjs)]()
+
+[![Docker Badge](https://img.shields.io/badge/-Docker-2C2E33?style=flat&logo=docker)]()
+[![MongoDB Badge](https://img.shields.io/badge/-MongoDB-2C2E33?style=flat&logo=mongodb)]()
+[![MySQL Badge](https://img.shields.io/badge/-MySQL-2C2E33?style=flat&logo=mysql)]()
+[![PostgreSQL Badge](https://img.shields.io/badge/-PostgreSQL-2C2E33?style=flat&logo=postgresql)]()
+[![Express Badge](https://img.shields.io/badge/-Express-2C2E33?style=flat&logo=express)]()
+[![Axios Badge](https://img.shields.io/badge/-Axios-2C2E33?style=flat&logo=axios)]()
+
+[![Git Badge](https://img.shields.io/badge/-Git-2C2E33?style=flat&logo=git)]()
+[![Github Badge](https://img.shields.io/badge/-Github-2C2E33?style=flat&logo=github)]()
+[![Yarn Badge](https://img.shields.io/badge/-Yarn-2C2E33?style=flat&logo=yarn)]()
+[![NPM Badge](https://img.shields.io/badge/-NPM-2C2E33?style=flat&logo=npm)]()
+[![Webpack Badge](https://img.shields.io/badge/-Webpack-2C2E33?style=flat&logo=webpack)]()
+[![Babel Badge](https://img.shields.io/badge/-Babel-2C2E33?style=flat&logo=babel)]()
+[![Prettier Badge](https://img.shields.io/badge/-Prettier-2C2E33?style=flat&logo=prettier)]()
+[![Eslint Badge](https://img.shields.io/badge/-Eslint-2C2E33?style=flat&logo=eslint)]()
+[![Json Badge](https://img.shields.io/badge/-Json-2C2E33?style=flat&logo=json)]()
+[![JsonWebTokens Badge](https://img.shields.io/badge/-Json%20Web%20Tokens-2C2E33?style=flat&logo=jsonwebtokens)]()
+
+[![Sass Badge](https://img.shields.io/badge/-Sass-2C2E33?style=flat&logo=sass)]()
+[![StyledComponents Badge](https://img.shields.io/badge/-Styled%20Components-2C2E33?style=flat&logo=styled-components)]()
+[![ChakraUI Badge](https://img.shields.io/badge/-Chakra%20UI-2C2E33?style=flat&logo=chakra-ui)]()
+[![Tailwindcss Badge](https://img.shields.io/badge/-Tailwindcss-2C2E33?style=flat&logo=tailwindcss)]()
+[![MaterialUI Badge](https://img.shields.io/badge/-Material%20UI-2C2E33?style=flat&logo=mui)]()
+
+[![ReactRouterBadge](https://img.shields.io/badge/-React%20Router-2C2E33?style=flat&logo=react-router)]()
+[![ReactHookForm Badge](https://img.shields.io/badge/-React%20Hook%20Form-2C2E33?style=flat&logo=react-hook-form)]()
+[![Redux Badge](https://img.shields.io/badge/-Redux-2C2E33?style=flat&logo=redux)]()
+[![ReduxToolkit Badge](https://img.shields.io/badge/-Redux%20Toolkit-2C2E33?style=flat&logo=redux)]()
+
+[![Jest Badge](https://img.shields.io/badge/-Jest-2C2E33?style=flat&logo=jest)]()
+[![ReactTestingLibrary Badge](https://img.shields.io/badge/-React%20Testing%20Library-2C2E33?style=flat&logo=testing-library)]()
+[![Storybook Badge](https://img.shields.io/badge/-Storybook-2C2E33?style=flat&logo=storybook)]()
+[![Swagger Badge](https://img.shields.io/badge/-Swagger-2C2E33?style=flat&logo=swagger)]()
+
+[![VSCode Badge](https://img.shields.io/badge/-VS%20Code-2C2E33?style=flat&logo=visual-studio-code)]()
+[![Figma Badge](https://img.shields.io/badge/-Figma-2C2E33?style=flat&logo=figma)]()
+[![Insomnia Badge](https://img.shields.io/badge/-Insomnia-2C2E33?style=flat&logo=insomnia)]()
+
+<br>
+<br>
 
 </div>
-
-<img
-  align="left-bottom"
-  alt="PostgreSQL"
-  title="PostgreSQL"
-  height="30px"
-  src="https://raw.githubusercontent.com/rgranvilla/rgranvilla/master/assets/postgresql.svg"
-/>
-
-<img
-  align="left-bottom"
-  alt="Yarn"
-  title="Yarn"
-  height="30px"
-  src="https://raw.githubusercontent.com/rgranvilla/rgranvilla/master/assets/yarn.svg"
-/>
-
-<img
-  align="left-bottom"
-  alt="Babel"
-  title="Babel"
-  height="30px"
-  src="https://raw.githubusercontent.com/rgranvilla/rgranvilla/master/assets/babel-10.svg"
-/>
-
-<img
-  align="left-bottom"
-  alt="JSON"
-  title="JSON"
-  height="30px"
-  src="https://raw.githubusercontent.com/rgranvilla/rgranvilla/master/assets/json.svg"
-/>
-
-<img
-  align="left-bottom"
-  alt="Sass"
-  title="Sass"
-  height="30px"
-  src="https://raw.githubusercontent.com/rgranvilla/rgranvilla/master/assets/sass-1.svg"
-/>
-
-<img
-  align="left-bottom"
-  alt="Styled-components"
-  title="Styled-components"
-  height="30px"
-  src="https://raw.githubusercontent.com/rgranvilla/rgranvilla/master/assets/styled-components-1.svg"
-/>
-
-<img
-  align="left-bottom"
-  alt="Webpack"
-  title="Webpack"
-  height="30px"
-  src="https://raw.githubusercontent.com/rgranvilla/rgranvilla/master/assets/webpack-icon.svg"
-/>
-
-<img
-  align="left-bottom"
-  alt="Prettier"
-  title="Prettier"
-  height="30px"
-  src="https://raw.githubusercontent.com/rgranvilla/rgranvilla/master/assets/prettier-2.svg"
-/>
-
-<img
-  align="left-bottom"
-  alt="Eslint"
-  title="Eslint"
-  height="30px"
-  src="https://raw.githubusercontent.com/rgranvilla/rgranvilla/master/assets/eslint-1.svg"
-/>
-
-<img
-  align="left-bottom"
-  alt="Jest"
-  title="Jest"
-  height="30px"
-  src="https://raw.githubusercontent.com/rgranvilla/rgranvilla/master/assets/jest-2.svg"
-/>
-
-<img
-  align="left-bottom"
-  alt="Express"
-  title="Express"
-  height="30px"
-  src="https://raw.githubusercontent.com/rgranvilla/rgranvilla/master/assets/express-109.svg"
-/>
-
-<img
-  align="left-bottom"
-  alt="Json Web Token"
-  title="Json Web Token"
-  height="30px"
-  src="https://raw.githubusercontent.com/rgranvilla/rgranvilla/master/assets/jwtio-json-web-token.svg"
-/>
-
-<img
-  align="left-bottom"
-  alt="Figma"
-  title="Figma"
-  height="30px"
-  src="https://raw.githubusercontent.com/rgranvilla/rgranvilla/master/assets/figma-1.svg"
-/>
-
-<img
-  align="left-bottom"
-  alt="Tailwindcss"
-  title="Tailwindcss"
-  height="30px"
-  src="https://raw.githubusercontent.com/rgranvilla/rgranvilla/master/assets/tailwindcss.svg"
-/>
-
-<img
-  align="left-bottom"
-  alt="VS Code"
-  title="VS Code"
-  height="30px"
-  src="https://raw.githubusercontent.com/rgranvilla/rgranvilla/master/assets/visual-studio-code-1.svg"
-/>
-
-</div>
-
-<br>
-<br>
-<br>
-<br>
 
 # Contatos
 
