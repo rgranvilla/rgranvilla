@@ -44,7 +44,7 @@ Seja muito bem vindo!
 <div style="display: flex; gap: 16px; align-items: center, flex-flow: column wrap">
 
 <img
-  align="left"
+  align="center"
   alt="Html5"
   title="Html5"
   height="30px"
@@ -52,7 +52,7 @@ Seja muito bem vindo!
 />
 
 <img
-  align="left"
+  align="center"
   alt="CSS3"
   title="CSS3"
   height="30px"
@@ -60,7 +60,7 @@ Seja muito bem vindo!
 />
 
 <img
-  align="left"
+  align="center"
   alt="Javascript"
   title="Javascript"
   height="30px"
@@ -68,7 +68,7 @@ Seja muito bem vindo!
 />
 
 <img
-  align="left"
+  align="center"
   alt="Typescript"
   title="Typescript"
   height="30px"
@@ -76,7 +76,7 @@ Seja muito bem vindo!
 />
 
 <img
-  align="left"
+  align="center"
   alt="Git"
   title="Git"
   height="30px"
@@ -84,7 +84,7 @@ Seja muito bem vindo!
 />
 
 <img
-  align="left"
+  align="center"
   alt="Github"
   title="Github"
   height="30px"
@@ -92,7 +92,7 @@ Seja muito bem vindo!
 />
 
 <img
-  align="left"
+  align="center"
   alt="React JS"
   title="React JS"
   height="30px"
@@ -100,7 +100,7 @@ Seja muito bem vindo!
 />
 
 <img
-  align="left"
+  align="center"
   alt="React Native"
   title="React Native"
   height="30px"
@@ -108,7 +108,7 @@ Seja muito bem vindo!
 />
 
 <img
-  align="left"
+  align="center"
   alt="NextJS"
   title="NextJS"
   height="30px"
@@ -116,7 +116,7 @@ Seja muito bem vindo!
 />
 
 <img
-  align="left"
+  align="center"
   alt="Redux"
   title="Redux"
   height="30px"
@@ -124,7 +124,7 @@ Seja muito bem vindo!
 />
 
 <img
-  align="left"
+  align="center"
   alt="NodeJS"
   title="NodeJS"
   height="30px"
@@ -132,7 +132,7 @@ Seja muito bem vindo!
 />
 
 <img
-  align="left"
+  align="center"
   alt="Docker"
   title="Docker"
   height="30px"
@@ -140,7 +140,7 @@ Seja muito bem vindo!
 />
 
 <img
-  align="left"
+  align="center"
   alt="MongoDB"
   title="MongoDB"
   height="30px"
@@ -148,7 +148,7 @@ Seja muito bem vindo!
 />
 
 <img
-  align="left"
+  align="center"
   alt="MySQL"
   title="MySQL"
   height="30px"
@@ -156,7 +156,7 @@ Seja muito bem vindo!
 />
 
 <img
-  align="left"
+  align="center"
   alt="PostgreSQL"
   title="PostgreSQL"
   height="30px"
@@ -164,7 +164,7 @@ Seja muito bem vindo!
 />
 
 <img
-  align="left"
+  align="center"
   alt="Yarn"
   title="Yarn"
   height="30px"
@@ -172,83 +172,107 @@ Seja muito bem vindo!
 />
 
 <img
-  align="left"
-  alt="Yarn"
-  title="Yarn"
+  align="center"
+  alt="Babel"
+  title="Babel"
   height="30px"
-  src="https://raw.githubusercontent.com/rgranvilla/rgranvilla/master/assets/yarn.svg"
+  src="https://raw.githubusercontent.com/rgranvilla/rgranvilla/master/assets/babel-10.svg"
 />
 
 <img
-  align="left"
-  alt="Yarn"
-  title="Yarn"
+  align="center"
+  alt="JSON"
+  title="JSON"
   height="30px"
-  src="https://raw.githubusercontent.com/rgranvilla/rgranvilla/master/assets/yarn.svg"
+  src="https://raw.githubusercontent.com/rgranvilla/rgranvilla/master/assets/json.svg"
 />
 
 <img
-  align="left"
-  alt="Yarn"
-  title="Yarn"
+  align="center"
+  alt="Sass"
+  title="Sass"
   height="30px"
-  src="https://raw.githubusercontent.com/rgranvilla/rgranvilla/master/assets/yarn.svg"
+  src="https://raw.githubusercontent.com/rgranvilla/rgranvilla/master/assets/sass-1.svg"
 />
 
 <img
-  align="left"
-  alt="Yarn"
-  title="Yarn"
+  align="center"
+  alt="Styled-components"
+  title="Styled-components"
   height="30px"
-  src="https://raw.githubusercontent.com/rgranvilla/rgranvilla/master/assets/yarn.svg"
+  src="https://raw.githubusercontent.com/rgranvilla/rgranvilla/master/assets/styled-components-1.svg"
 />
 
 <img
-  align="left"
-  alt="Yarn"
-  title="Yarn"
+  align="center"
+  alt="Webpack"
+  title="Webpack"
   height="30px"
-  src="https://raw.githubusercontent.com/rgranvilla/rgranvilla/master/assets/yarn.svg"
+  src="https://raw.githubusercontent.com/rgranvilla/rgranvilla/master/assets/webpack-icon.svg"
 />
 
 <img
-  align="left"
-  alt="Yarn"
-  title="Yarn"
+  align="center"
+  alt="Prettier"
+  title="Prettier"
   height="30px"
-  src="https://raw.githubusercontent.com/rgranvilla/rgranvilla/master/assets/yarn.svg"
+  src="https://raw.githubusercontent.com/rgranvilla/rgranvilla/master/assets/prettier-2.svg"
 />
 
 <img
-  align="left"
-  alt="Yarn"
-  title="Yarn"
+  align="center"
+  alt="Eslint"
+  title="Eslint"
   height="30px"
-  src="https://raw.githubusercontent.com/rgranvilla/rgranvilla/master/assets/yarn.svg"
+  src="https://raw.githubusercontent.com/rgranvilla/rgranvilla/master/assets/eslint-1.svg"
 />
 
 <img
-  align="left"
-  alt="Yarn"
-  title="Yarn"
+  align="center"
+  alt="Jest"
+  title="Jest"
   height="30px"
-  src="https://raw.githubusercontent.com/rgranvilla/rgranvilla/master/assets/yarn.svg"
+  src="https://raw.githubusercontent.com/rgranvilla/rgranvilla/master/assets/jest-2.svg"
 />
 
 <img
-  align="left"
-  alt="Yarn"
-  title="Yarn"
+  align="center"
+  alt="Express"
+  title="Express"
   height="30px"
-  src="https://raw.githubusercontent.com/rgranvilla/rgranvilla/master/assets/yarn.svg"
+  src="https://raw.githubusercontent.com/rgranvilla/rgranvilla/master/assets/express-109.svg"
 />
 
 <img
-  align="left"
-  alt="Yarn"
-  title="Yarn"
+  align="center"
+  alt="Json Web Token"
+  title="Json Web Token"
   height="30px"
-  src="https://raw.githubusercontent.com/rgranvilla/rgranvilla/master/assets/yarn.svg"
+  src="https://raw.githubusercontent.com/rgranvilla/rgranvilla/master/assets/jwtio-json-web-token.svg"
+/>
+
+<img
+  align="center"
+  alt="Figma"
+  title="Figma"
+  height="30px"
+  src="https://raw.githubusercontent.com/rgranvilla/rgranvilla/master/assets/figma-1.svg"
+/>
+
+<img
+  align="center"
+  alt="Tailwindcss"
+  title="Tailwindcss"
+  height="30px"
+  src="https://raw.githubusercontent.com/rgranvilla/rgranvilla/master/assets/tailwindcss.svg"
+/>
+
+<img
+  align="center"
+  alt="VS Code"
+  title="VS Code"
+  height="30px"
+  src="https://raw.githubusercontent.com/rgranvilla/rgranvilla/master/assets/visual-studio-code-1.svg"
 />
 
 </div>
