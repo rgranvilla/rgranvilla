@@ -87,9 +87,9 @@ Seja muito bem vindo!
 
 <img
   align="left"
-  alt="Typescript"
+  alt="React JS"
   height="30px"
-  src="https://raw.githubusercontent.com/rgranvilla/rgranvilla/master/assets/typescript.svg"
+  src="https://raw.githubusercontent.com/rgranvilla/rgranvilla/master/assets/react-2.svg"
 />
 
 </div>
