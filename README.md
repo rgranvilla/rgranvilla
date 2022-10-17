@@ -41,7 +41,7 @@ Seja muito bem vindo!
 
 # Linguagens e ferramentas:
 
-<div style="display: flex; gap: 16px; align-items: center, flex-flow: column wrap">
+<div style="display: flex; gap: 16px; align-items: center, flex-flow: row wrap">
 
 <img
   align="center"
