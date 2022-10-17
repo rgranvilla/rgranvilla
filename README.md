@@ -34,7 +34,8 @@ Seja muito bem vindo!
 <br>
 
   <div align='center'>
-
+  
+[![wakatime](https://wakatime.com/badge/user/87f05888-e4f5-4dc0-8bd6-42032ea520d1.svg)](https://wakatime.com/@87f05888-e4f5-4dc0-8bd6-42032ea520d1)
 [![Twitter Badge](https://img.shields.io/badge/-Ricardo-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/rgranvilla)](https://twitter.com/rgranvilla)
 [![Linkedin Badge](https://img.shields.io/badge/-Ricardo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rgranvilla/)](https://www.linkedin.com/in/rgranvilla/)
 [![Gmail Badge](https://img.shields.io/badge/-rgranvilla@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rgranvilla@gmail.com)](mailto:rgranvilla@gmail.com)
@@ -94,10 +95,6 @@ Seja muito bem vindo!
 <br>
 
 </div>
-
-#
-
-[![wakatime](https://wakatime.com/badge/user/87f05888-e4f5-4dc0-8bd6-42032ea520d1.svg)](https://wakatime.com/@87f05888-e4f5-4dc0-8bd6-42032ea520d1)
 
 #
 
