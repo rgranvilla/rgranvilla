@@ -40,7 +40,7 @@ Seja muito bem vindo!
 
 # Linguagens e ferramentas:
 
-<div style="display: flex; gap: 8px; align-items: center; flex-wrap: wrap">
+<div style="display: flex; gap: 8px; align-items: center; flex-wrap: wrap; padding-bottom: 20px">
 
 <img
   align="left"
