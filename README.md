@@ -97,8 +97,10 @@ Seja muito bem vindo!
 
 #
 
+<div>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rgranvilla&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rgranvilla&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&hide=jupyter%20notebook"/>
+</div>
 
 #
 
