@@ -95,7 +95,18 @@ Seja muito bem vindo!
 
 </div>
 
+#
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rgranvilla&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rgranvilla&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&hide=jupyter%20notebook"/>
+
+#
+
+<img src="https://activity-graph.herokuapp.com/graph?username=rgranvilla&bg_color=1A1B27&line=0cb9b1&color=7e7fff"/>
+
 # Contatos
+
+<div align='center'>
 
 <p>&nbsp;</p>
 
@@ -111,3 +122,5 @@ Seja muito bem vindo!
 [![Gmail Badge](https://img.shields.io/badge/-rgranvilla@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rgranvilla@gmail.com)](mailto:rgranvilla@gmail.com)
 
 <p>&nbsp;</p>
+
+</div>
