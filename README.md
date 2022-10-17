@@ -97,6 +97,10 @@ Seja muito bem vindo!
 
 #
 
+[![wakatime](https://wakatime.com/badge/user/87f05888-e4f5-4dc0-8bd6-42032ea520d1.svg)](https://wakatime.com/@87f05888-e4f5-4dc0-8bd6-42032ea520d1)
+
+#
+
 <div>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rgranvilla&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rgranvilla&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&hide=jupyter%20notebook"/>
