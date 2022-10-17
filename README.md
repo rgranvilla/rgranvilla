@@ -52,14 +52,12 @@ Seja muito bem vindo!
 [![ReactNative Badge](https://img.shields.io/badge/-React%20Native-2C2E33?style=flat&logo=react)]()
 [![NextJS Badge](https://img.shields.io/badge/-Next%20JS-2C2E33?style=flat&logo=nextdotjs)]()
 [![NodeJS Badge](https://img.shields.io/badge/-Node%20JS-2C2E33?style=flat&logo=nodedotjs)]()
-
 [![Docker Badge](https://img.shields.io/badge/-Docker-2C2E33?style=flat&logo=docker)]()
 [![MongoDB Badge](https://img.shields.io/badge/-MongoDB-2C2E33?style=flat&logo=mongodb)]()
 [![MySQL Badge](https://img.shields.io/badge/-MySQL-2C2E33?style=flat&logo=mysql)]()
 [![PostgreSQL Badge](https://img.shields.io/badge/-PostgreSQL-2C2E33?style=flat&logo=postgresql)]()
 [![Express Badge](https://img.shields.io/badge/-Express-2C2E33?style=flat&logo=express)]()
 [![Axios Badge](https://img.shields.io/badge/-Axios-2C2E33?style=flat&logo=axios)]()
-
 [![Git Badge](https://img.shields.io/badge/-Git-2C2E33?style=flat&logo=git)]()
 [![Github Badge](https://img.shields.io/badge/-Github-2C2E33?style=flat&logo=github)]()
 [![Yarn Badge](https://img.shields.io/badge/-Yarn-2C2E33?style=flat&logo=yarn)]()
@@ -70,23 +68,19 @@ Seja muito bem vindo!
 [![Eslint Badge](https://img.shields.io/badge/-Eslint-2C2E33?style=flat&logo=eslint)]()
 [![Json Badge](https://img.shields.io/badge/-Json-2C2E33?style=flat&logo=json)]()
 [![JsonWebTokens Badge](https://img.shields.io/badge/-Json%20Web%20Tokens-2C2E33?style=flat&logo=jsonwebtokens)]()
-
 [![Sass Badge](https://img.shields.io/badge/-Sass-2C2E33?style=flat&logo=sass)]()
 [![StyledComponents Badge](https://img.shields.io/badge/-Styled%20Components-2C2E33?style=flat&logo=styled-components)]()
 [![ChakraUI Badge](https://img.shields.io/badge/-Chakra%20UI-2C2E33?style=flat&logo=chakra-ui)]()
 [![Tailwindcss Badge](https://img.shields.io/badge/-Tailwindcss-2C2E33?style=flat&logo=tailwindcss)]()
 [![MaterialUI Badge](https://img.shields.io/badge/-Material%20UI-2C2E33?style=flat&logo=mui)]()
-
 [![ReactRouterBadge](https://img.shields.io/badge/-React%20Router-2C2E33?style=flat&logo=react-router)]()
 [![ReactHookForm Badge](https://img.shields.io/badge/-React%20Hook%20Form-2C2E33?style=flat&logo=react-hook-form)]()
 [![Redux Badge](https://img.shields.io/badge/-Redux-2C2E33?style=flat&logo=redux)]()
 [![ReduxToolkit Badge](https://img.shields.io/badge/-Redux%20Toolkit-2C2E33?style=flat&logo=redux)]()
-
 [![Jest Badge](https://img.shields.io/badge/-Jest-2C2E33?style=flat&logo=jest)]()
 [![ReactTestingLibrary Badge](https://img.shields.io/badge/-React%20Testing%20Library-2C2E33?style=flat&logo=testing-library)]()
 [![Storybook Badge](https://img.shields.io/badge/-Storybook-2C2E33?style=flat&logo=storybook)]()
 [![Swagger Badge](https://img.shields.io/badge/-Swagger-2C2E33?style=flat&logo=swagger)]()
-
 [![VSCode Badge](https://img.shields.io/badge/-VS%20Code-2C2E33?style=flat&logo=visual-studio-code)]()
 [![Figma Badge](https://img.shields.io/badge/-Figma-2C2E33?style=flat&logo=figma)]()
 [![Insomnia Badge](https://img.shields.io/badge/-Insomnia-2C2E33?style=flat&logo=insomnia)]()
