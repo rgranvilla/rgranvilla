@@ -41,11 +41,12 @@ Seja muito bem vindo!
 
 # Linguagens e ferramentas:
 
-<div style="display: flex; gap: 8px; align-items: center">
+<div style="display: flex; gap: 16px; align-items: center, flex-flow: column wrap">
 
 <img
   align="left"
   alt="Html5"
+  title="Html5"
   height="30px"
   src="https://raw.githubusercontent.com/rgranvilla/rgranvilla/master/assets/html-1.svg"
 />
@@ -53,6 +54,7 @@ Seja muito bem vindo!
 <img
   align="left"
   alt="CSS3"
+  title="CSS3"
   height="30px"
   src="https://raw.githubusercontent.com/rgranvilla/rgranvilla/master/assets/css-3.svg"
 />
@@ -60,6 +62,7 @@ Seja muito bem vindo!
 <img
   align="left"
   alt="Javascript"
+  title="Javascript"
   height="30px"
   src="https://raw.githubusercontent.com/rgranvilla/rgranvilla/master/assets/logo-javascript.svg"
 />
@@ -67,6 +70,7 @@ Seja muito bem vindo!
 <img
   align="left"
   alt="Typescript"
+  title="Typescript"
   height="30px"
   src="https://raw.githubusercontent.com/rgranvilla/rgranvilla/master/assets/typescript.svg"
 />
@@ -74,6 +78,7 @@ Seja muito bem vindo!
 <img
   align="left"
   alt="Git"
+  title="Git"
   height="30px"
   src="https://raw.githubusercontent.com/rgranvilla/rgranvilla/master/assets/git-icon.svg"
 />
@@ -81,6 +86,7 @@ Seja muito bem vindo!
 <img
   align="left"
   alt="Github"
+  title="Github"
   height="30px"
   src="https://raw.githubusercontent.com/rgranvilla/rgranvilla/master/assets/github-icon-1.svg"
 />
@@ -88,8 +94,161 @@ Seja muito bem vindo!
 <img
   align="left"
   alt="React JS"
+  title="React JS"
   height="30px"
   src="https://raw.githubusercontent.com/rgranvilla/rgranvilla/master/assets/react-2.svg"
+/>
+
+<img
+  align="left"
+  alt="React Native"
+  title="React Native"
+  height="30px"
+  src="https://raw.githubusercontent.com/rgranvilla/rgranvilla/master/assets/react-native-1.svg"
+/>
+
+<img
+  align="left"
+  alt="NextJS"
+  title="NextJS"
+  height="30px"
+  src="https://raw.githubusercontent.com/rgranvilla/rgranvilla/master/assets/next-js.svg"
+/>
+
+<img
+  align="left"
+  alt="Redux"
+  title="Redux"
+  height="30px"
+  src="https://raw.githubusercontent.com/rgranvilla/rgranvilla/master/assets/redux.svg"
+/>
+
+<img
+  align="left"
+  alt="NodeJS"
+  title="NodeJS"
+  height="30px"
+  src="https://raw.githubusercontent.com/rgranvilla/rgranvilla/master/assets/nodejs-icon.svg"
+/>
+
+<img
+  align="left"
+  alt="Docker"
+  title="Docker"
+  height="30px"
+  src="https://raw.githubusercontent.com/rgranvilla/rgranvilla/master/assets/docker.svg"
+/>
+
+<img
+  align="left"
+  alt="MongoDB"
+  title="MongoDB"
+  height="30px"
+  src="https://raw.githubusercontent.com/rgranvilla/rgranvilla/master/assets/mongodb-icon-1.svg"
+/>
+
+<img
+  align="left"
+  alt="MySQL"
+  title="MySQL"
+  height="30px"
+  src="https://raw.githubusercontent.com/rgranvilla/rgranvilla/master/assets/mysql-3.svg"
+/>
+
+<img
+  align="left"
+  alt="PostgreSQL"
+  title="PostgreSQL"
+  height="30px"
+  src="https://raw.githubusercontent.com/rgranvilla/rgranvilla/master/assets/postgresql.svg"
+/>
+
+<img
+  align="left"
+  alt="Yarn"
+  title="Yarn"
+  height="30px"
+  src="https://raw.githubusercontent.com/rgranvilla/rgranvilla/master/assets/yarn.svg"
+/>
+
+<img
+  align="left"
+  alt="Yarn"
+  title="Yarn"
+  height="30px"
+  src="https://raw.githubusercontent.com/rgranvilla/rgranvilla/master/assets/yarn.svg"
+/>
+
+<img
+  align="left"
+  alt="Yarn"
+  title="Yarn"
+  height="30px"
+  src="https://raw.githubusercontent.com/rgranvilla/rgranvilla/master/assets/yarn.svg"
+/>
+
+<img
+  align="left"
+  alt="Yarn"
+  title="Yarn"
+  height="30px"
+  src="https://raw.githubusercontent.com/rgranvilla/rgranvilla/master/assets/yarn.svg"
+/>
+
+<img
+  align="left"
+  alt="Yarn"
+  title="Yarn"
+  height="30px"
+  src="https://raw.githubusercontent.com/rgranvilla/rgranvilla/master/assets/yarn.svg"
+/>
+
+<img
+  align="left"
+  alt="Yarn"
+  title="Yarn"
+  height="30px"
+  src="https://raw.githubusercontent.com/rgranvilla/rgranvilla/master/assets/yarn.svg"
+/>
+
+<img
+  align="left"
+  alt="Yarn"
+  title="Yarn"
+  height="30px"
+  src="https://raw.githubusercontent.com/rgranvilla/rgranvilla/master/assets/yarn.svg"
+/>
+
+<img
+  align="left"
+  alt="Yarn"
+  title="Yarn"
+  height="30px"
+  src="https://raw.githubusercontent.com/rgranvilla/rgranvilla/master/assets/yarn.svg"
+/>
+
+<img
+  align="left"
+  alt="Yarn"
+  title="Yarn"
+  height="30px"
+  src="https://raw.githubusercontent.com/rgranvilla/rgranvilla/master/assets/yarn.svg"
+/>
+
+<img
+  align="left"
+  alt="Yarn"
+  title="Yarn"
+  height="30px"
+  src="https://raw.githubusercontent.com/rgranvilla/rgranvilla/master/assets/yarn.svg"
+/>
+
+<img
+  align="left"
+  alt="Yarn"
+  title="Yarn"
+  height="30px"
+  src="https://raw.githubusercontent.com/rgranvilla/rgranvilla/master/assets/yarn.svg"
 />
 
 </div>
