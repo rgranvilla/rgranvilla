@@ -26,6 +26,8 @@ Seja muito bem vindo!
 
 <br>
 <br>
+<br>
+<br>
 
   <div align='center'>
 
@@ -37,7 +39,6 @@ Seja muito bem vindo!
 
   </div>
 
-<br>
 <br>
 
 # Linguagens e ferramentas:
