@@ -44,84 +44,24 @@ Seja muito bem vindo!
 
 <div align='center'>
 
-[![HTML5 Badge](https://img.shields.io/badge/-HTML%205-2C2E33?style=for-the-badge&logo=html5)]()
-[![CSS3 Badge](https://img.shields.io/badge/-CSS%203-2C2E33?style=for-the-badge&logo=css3)]()
-[![Javascript Badge](https://img.shields.io/badge/-Javascript-2C2E33?style=for-the-badge&logo=javascript&logoColor=121214)]()
-[![Typescript Badge](https://img.shields.io/badge/-Typescript-2C2E33?style=for-the-badge&logo=typescript)]()
-[![Git Badge](https://img.shields.io/badge/-Git-2C2E33?style=for-the-badge&logo=git)]()
-[![Github Badge](https://img.shields.io/badge/-Github-2C2E33?style=for-the-badge&logo=github)]()
-[![ReactJS Badge](https://img.shields.io/badge/-ReactJs-2C2E33?logo=react&style=for-the-badge)]()
-[![ReactNative Badge](https://img.shields.io/badge/-React%20Native-2C2E33?style=for-the-badge&logo=github)]()
-[![NextJS Badge](https://img.shields.io/badge/-Next%20JS-2C2E33?style=for-the-badge&logo=nextdotjs)]()
-[![Redux Badge](https://img.shields.io/badge/-Redux-2C2E33?style=for-the-badge&logo=redux)]()
-[![ReduxToolkit Badge](https://img.shields.io/badge/-Redux%20Toolkit-2C2E33?style=for-the-badge&logo=redux)]()
-[![NodeJS Badge](https://img.shields.io/badge/-Node%20JS-2C2E33?style=for-the-badge&logo=nodedotjs)]()
+[![HTML5 Badge](https://img.shields.io/badge/-HTML%205-2C2E33?style=flat-square&logo=html5)]()
+[![CSS3 Badge](https://img.shields.io/badge/-CSS%203-2C2E33?style=flat-square&logo=css3)]()
+[![Javascript Badge](https://img.shields.io/badge/-Javascript-2C2E33?style=flat-square&logo=javascript&logoColor=121214)]()
+[![Typescript Badge](https://img.shields.io/badge/-Typescript-2C2E33?style=flat-square&logo=typescript)]()
+[![Git Badge](https://img.shields.io/badge/-Git-2C2E33?style=flat-square&logo=git)]()
+[![Github Badge](https://img.shields.io/badge/-Github-2C2E33?style=flat-square&logo=github)]()
+[![ReactJS Badge](https://img.shields.io/badge/-ReactJs-2C2E33?logo=react&style=flat-square)]()
+[![ReactNative Badge](https://img.shields.io/badge/-React%20Native-2C2E33?style=flat-square&logo=github)]()
+[![NextJS Badge](https://img.shields.io/badge/-Next%20JS-2C2E33?style=flat-square&logo=nextdotjs)]()
+[![Redux Badge](https://img.shields.io/badge/-Redux-2C2E33?style=flat-square&logo=redux)]()
+[![ReduxToolkit Badge](https://img.shields.io/badge/-Redux%20Toolkit-2C2E33?style=flat-square&logo=redux)]()
+[![NodeJS Badge](https://img.shields.io/badge/-Node%20JS-2C2E33?style=flat-square&logo=nodedotjs)]()
+[![Docker Badge](https://img.shields.io/badge/-Docker-2C2E33?style=flat-square&logo=docker)]()
+[![MongoDB Badge](https://img.shields.io/badge/-MongoDB-2C2E33?style=flat-square&logo=mongodb)]()
+[![MySQL Badge](https://img.shields.io/badge/-MySQL-2C2E33?style=flat-square&logo=mysql)]()
+[![PostgreSQL Badge](https://img.shields.io/badge/-PostgreSQL-2C2E33?style=flat-square&logo=mysql)]()
 
 </div>
-
-<img
-  align="left-bottom"
-  alt="React JS"
-  title="React JS"
-  height="30px"
-  src="https://raw.githubusercontent.com/rgranvilla/rgranvilla/master/assets/react-2.svg"
-/>
-
-<img
-  align="left-bottom"
-  alt="React Native"
-  title="React Native"
-  height="30px"
-  src="https://raw.githubusercontent.com/rgranvilla/rgranvilla/master/assets/react-native-1.svg"
-/>
-
-<img
-  align="left-bottom"
-  alt="NextJS"
-  title="NextJS"
-  height="30px"
-  src="https://raw.githubusercontent.com/rgranvilla/rgranvilla/master/assets/next-js.svg"
-/>
-
-<img
-  align="left-bottom"
-  alt="Redux"
-  title="Redux"
-  height="30px"
-  src="https://raw.githubusercontent.com/rgranvilla/rgranvilla/master/assets/redux.svg"
-/>
-
-<img
-  align="left-bottom"
-  alt="NodeJS"
-  title="NodeJS"
-  height="30px"
-  src="https://raw.githubusercontent.com/rgranvilla/rgranvilla/master/assets/nodejs-icon.svg"
-/>
-
-<img
-  align="left-bottom"
-  alt="Docker"
-  title="Docker"
-  height="30px"
-  src="https://raw.githubusercontent.com/rgranvilla/rgranvilla/master/assets/docker.svg"
-/>
-
-<img
-  align="left-bottom"
-  alt="MongoDB"
-  title="MongoDB"
-  height="30px"
-  src="https://raw.githubusercontent.com/rgranvilla/rgranvilla/master/assets/mongodb-icon-1.svg"
-/>
-
-<img
-  align="left-bottom"
-  alt="MySQL"
-  title="MySQL"
-  height="30px"
-  src="https://raw.githubusercontent.com/rgranvilla/rgranvilla/master/assets/mysql-3.svg"
-/>
 
 <img
   align="left-bottom"
