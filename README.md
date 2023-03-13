@@ -12,8 +12,8 @@
 
   <div align="left">
       
-  Desenvolvedor front-end com conhecimento em back-end node (Javascript,
-  Typescript, ReactJS, NodeJs), aficionado por tecnologia e programação. Possuo
+  Desenvolvedor fullstack (Javascript,
+  Typescript, ReactJS, ReactNative, NodeJs), aficionado por tecnologia e programação. Possuo
   facilidade de aprendizado, trabalho bem em equipe, proativo, dinâmico e
   observador. Busco constantemente estar atento ao mercado e suas demandas,
   realizando cursos e workshops que possam melhorar minhas habilidades.
